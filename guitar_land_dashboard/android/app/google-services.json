@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "664239788681",
+    "project_id": "guitarland-c41a3",
+    "storage_bucket": "guitarland-c41a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664239788681:android:c314df3be2701d24aeec58",
+        "android_client_info": {
+          "package_name": "com.example.guitar_land_dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664239788681-pdk74jnpknt2uherfcb6ufa1gok03n5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4t_6jJmcbmmbgf4bxOGehc7NILCO8Cd4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664239788681-pdk74jnpknt2uherfcb6ufa1gok03n5d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "664239788681-j832r49v1ric8eg5b3gaf8vmkuugvuqk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.guitarLandDashboard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

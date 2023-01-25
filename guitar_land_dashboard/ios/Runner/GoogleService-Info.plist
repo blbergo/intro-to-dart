@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>664239788681-j832r49v1ric8eg5b3gaf8vmkuugvuqk.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.664239788681-j832r49v1ric8eg5b3gaf8vmkuugvuqk</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCYgGA7uKrGfhzoqpr0HbDS4PPI241dxJc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>664239788681</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.guitarLandDashboard</string>
+	<key>PROJECT_ID</key>
+	<string>guitarland-c41a3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>guitarland-c41a3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:664239788681:ios:c218db3dde59909baeec58</string>
+</dict>
+</plist>
